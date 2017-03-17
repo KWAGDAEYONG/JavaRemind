@@ -14,6 +14,6 @@ public class InterruptedExample {
         }
 
         stopThread.interrupt();
-        
+
     }
 }
